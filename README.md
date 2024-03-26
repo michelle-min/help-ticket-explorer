@@ -1,4 +1,4 @@
-# 🎬 Movies Explorer
+# 🎬 Help Ticket Explorer
 
 What makes a successful movie? Which movie genre performs best at the box office?
 
